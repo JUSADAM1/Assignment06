@@ -215,5 +215,5 @@ plt.legend(loc='lower right', borderpad=0, handletextpad=0)
 # then youll know whatI mean
 plt.axis("tight")
 #shows it all
-plt.show() 
-
+plt.show()
+plt.legend()
